@@ -20,7 +20,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BookFlight {
-
+//code updated
 	public static void main(String[] args) throws EncryptedDocumentException, IOException, InterruptedException 
 	{
 
